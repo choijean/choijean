@@ -1,6 +1,6 @@
 ![name banner](images/banner_gh_scallop.png)
 
-## hello! 👋
+# hello! 👋
 
 i'm jean choi and i ...
 - 💪 &nbsp; am currently working on a mern stack application!
